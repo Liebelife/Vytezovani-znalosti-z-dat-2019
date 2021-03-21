@@ -1,6 +1,7 @@
 # Vytezovani-znalosti-z-dat-2019
 
 Data Mining Homeworks
+All the solutions are avaliable in solution.ipynb files in the 01, 02, 03, and 04 folders
 
 ## 01 - web scraping, data visualisation
   - using data from volby.cz

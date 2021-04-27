@@ -8,7 +8,7 @@ All the solutions are avaliable in solution.ipynb files in the 01, 02, 03, and 0
   - using data from volby.cz
   - first experience working with dataframe and Markdown (the jupyter notebook could look better :)) I made progress in the following three homeworks.
 
-## 03 - binary classsification using different models (Titanic dataset)
+## 02 - binary classsification using different models (Titanic dataset)
   - DecisionTreeClassifier, RandomForestClassifier, AdaBoostClassifier, LogisticRegression, KNeighborsClassifier
 
 ## 03 - clustering (custormer segmentation)
